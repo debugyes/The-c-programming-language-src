@@ -18,7 +18,7 @@ int main(void)
 	return 0;
 }
 
-//°æ±¾1
+//ç‰ˆæœ¬1
 int power(int base, int n)
 {
 	int result = 1;
@@ -39,7 +39,7 @@ int power(int base, int n)
 }
 
 
-//°æ±¾¶þ
+//ç‰ˆæœ¬2
 int power2(int base, int n)
 {
 	int result;
